@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         print("Kerim")
         print("Kerim ponovo ide frizbi")
-        print("Purak")
+        print("Sabah")
+        print("Kerim poslije sabaha!")
     }
 }
