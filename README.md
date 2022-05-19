@@ -1,3 +1,3 @@
 # SalesmanProblemProject
  
-#bilo sra
+#drugi put
